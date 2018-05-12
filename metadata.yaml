@@ -1,0 +1,25 @@
+_repo: Greek-and-Roman-Ghost-Stories_17190
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collison-Morley, Lacy
+    birthdate: 1875
+    gutenberg_agent_id: '7208'
+    url: http://www.gutenberg.org/2009/agents/7208
+description: ''
+gutenberg_issued: '2005-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Ghosts'
+title: Greek and Roman Ghost Stories
+url: http://www.gutenberg.org/ebooks/17190
